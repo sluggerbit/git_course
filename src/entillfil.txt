@@ -1,3 +1,2 @@
 exercise 5
-ändrar --amend
-ändrar igen
+
