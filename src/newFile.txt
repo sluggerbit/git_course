@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 More added stuff :)
 
 new sentence added :)
 even more new things :)
 
+=======
+Changed this file AGAIN
+>>>>>>> 2a0cf3e (changed again again)
